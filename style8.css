@@ -1,0 +1,8 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: #7aa874;
+    margin: 100 auto;
+    background-image: url("https://images.unsplash.com/photo-1676950740454-db2c24ebe17c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE5fEpwZzZLaWRsLUhrfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60");
+    background-size: contain;
+}
